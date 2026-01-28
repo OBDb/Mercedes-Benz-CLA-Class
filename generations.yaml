@@ -1,0 +1,21 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_CLA-Class"
+
+generations:
+  - name: "First Generation (C117)"
+    start_year: 2013
+    end_year: 2019
+    description: "First generation CLA featuring sedan and Shooting Brake (station wagon) body styles. Based on the MFA platform. Known for being Mercedes-Benz's first front-wheel drive vehicle offered in the American market. Received a facelift in 2017 with restyled headlights and taillights with available bold LED lighting."
+    platform: "MFA"
+
+  - name: "Second Generation (C118)"
+    start_year: 2019
+    end_year: null
+    description: "Second generation CLA based on the MFA2 platform. Features the Mercedes-Benz User Experience (MBUX) infotainment system with 'Hey Mercedes' voice control. Includes sedan and Shooting Brake versions. Received a facelift in January 2023 which involved the discontinuation of the manual transmission."
+    platform: "MFA2"
+
+  - name: "Third Generation (C178/174)"
+    start_year: 2025
+    end_year: null
+    description: "Third generation CLA, officially marketed as 'CLA with EQ Technology'. First model based on the Mercedes-Benz Modular Architecture (MMA) platform. For the first time, combustion-engine and battery electric models feature identical designs. Includes both ICE (hybrid) and BEV variants, with sedan and Shooting Brake body styles."
+    platform: "Mercedes-Benz Modular Architecture (MMA)"
